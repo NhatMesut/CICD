@@ -1,0 +1,35 @@
+p.wp-block-tag-cloud a:hover{
+    background:#e5523e;
+}
+.wp-block-button .wp-block-button__link{
+    background:#e5523e;
+    color: #fff !important;
+}
+.wp-block-file .wp-block-file__button:hover, .wp-block-file .wp-block-file__button:focus, .wp-block-button .wp-block-button__link:hover, .wp-block-button .wp-block-button__link:focus {
+    background-color: #e5523e;
+    color: #fff;
+    border-color: #e5523e;
+}
+.wp-block-file .wp-block-file__button, .wp-block-button.is-style-outline .wp-block-button__link{
+    border-color:#e5523e !important;
+    color:#e5523e !important;
+}
+.wp-block-button.is-style-outline .wp-block-button__link:hover{
+border-color:#e5523e !important;
+    color:#e5523e !important;
+}
+.has-media-on-the-right  img{
+    width: 20vw!important;
+    margin-left: 0px !important;
+}
+.wp-block-media-text__media img{
+    height: auto;
+    max-width: unset;
+    vertical-align: middle;
+    width: 91%;
+    margin-left:43px;
+}
+#Category-section .sticky .postbox {
+    position: relative;
+    border-left: solid 4px #e5523e;
+}
